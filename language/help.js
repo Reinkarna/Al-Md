@@ -418,6 +418,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}setallmenu
   
   *THANKS TO*
+  *≻* M.Alhakim
   *≻* DikaArdnt
   *≻* ZeeoneOfc
   *≻* FatihArridho
