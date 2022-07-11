@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Chika-Md" width="100"/>
+<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Al-Md" width="100"/>
 
 
 </p>
@@ -34,12 +34,12 @@
 ---
 
 ## Information
-> Chika-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Chika-Md is a bot whatsapp using a Baileys library.
+> Al-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Al-Md is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-M.Alhakim](https://wa.me/6285692198423)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
