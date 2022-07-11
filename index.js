@@ -1,6 +1,6 @@
 /*
 › Create By @M.Alhakim
-› Base Ori @DikaArdnt
+› Base Ori @DikaArdntNU
 › Kalau mau ubah/edit owner di settings.js
 › Edit text menu di file language › help.js
 */
@@ -125,11 +125,11 @@ module.exports = chika = async (chika, m, chatUpdate, store) => {
             let chats = global.db.data.chats[m.chat]
             if (typeof chats !== 'object') global.db.data.chats[m.chat] = {}
             if (chats) {
-                if (!('mute' in chats)) chats.mute = false
-                if (!('antilink' in chats)) chats.antilink = false
+                if (!('mute' in chats)) chats.mute = true
+                if (!('antilink' in chats)) chats.antilink = true
             } else global.db.data.chats[m.chat] = {
-                mute: false,
-                antilink: false,
+                mute:true,
+                antilink: true,
             }
 		
 	    let setting = global.db.data.settings[botNumber]
@@ -139,7 +139,7 @@ module.exports = chika = async (chika, m, chatUpdate, store) => {
 		if (!('autobio' in setting)) setting.autobio = false
 	    } else global.db.data.settings[botNumber] = {
 		status: 0,
-		autobio: false,
+		autobio: true,
 	    }
 	    
         } catch (err) {
