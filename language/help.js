@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @M.Alhakim
 › Base Ori @DikaArdnt
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
@@ -953,6 +953,7 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
+  *≻* M.Alhakim
   *≻* DikaArdnt
   *≻* ZeeoneOfc
   *≻* FatihArridho
