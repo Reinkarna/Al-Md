@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/riychdwayne"><img title="Recode" src="https://img.shields.io/badge/Recode-Riy-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Reinkarna"><img title="Recode" src="https://img.shields.io/badge/Recode-M.Alhakim-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
@@ -110,3 +110,4 @@ global.sessionName = 'chika'
 - [Zeeone](https://github.com/zeeone-ofc) <br> 
 - [Yoga](https://github.com/YogGanz) <br> 
 - [Riy](https://github.com/riychdwayne) <br> 
+- [M.Alhakim](https://github.com/Reinkarna) <br> 
