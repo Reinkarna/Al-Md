@@ -28,7 +28,7 @@ global.ownernomer = '6285692198423' //ubah jadi nomor mu, note tanda ' gausah di
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'M.Alhakim' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Al-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'Thunder' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'M.Alhakim' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
@@ -41,7 +41,7 @@ global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Al-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '© Thunder' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'M.Alhakim' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
